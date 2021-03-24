@@ -1,4 +1,4 @@
-package com.lee.imClient.clientCommand;
+package com.im.imClient.clientCommand;
 
 import java.util.Scanner;
 

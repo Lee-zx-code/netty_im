@@ -1,13 +1,11 @@
-package com.lee.imClient.clientCommand;
+package com.im.imClient.clientCommand;
 
-import lombok.Data;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 import java.util.Scanner;
 
 @Service("LogoutConsoleCommand")
-public class LogoutCosoleCommand implements BaseCommand {
+public class LogoutConsoleCommand implements BaseCommand {
 
     public static final String KEY = "10";
 

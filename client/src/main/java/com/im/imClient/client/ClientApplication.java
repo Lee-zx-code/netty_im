@@ -1,4 +1,4 @@
-package com.lee.client;
+package com.im.imClient.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

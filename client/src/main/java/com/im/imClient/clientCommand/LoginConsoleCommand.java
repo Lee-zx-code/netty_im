@@ -1,4 +1,4 @@
-package com.lee.imClient.clientCommand;
+package com.im.imClient.clientCommand;
 
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
@@ -9,7 +9,7 @@ import java.util.Scanner;
 @Slf4j
 @Data
 @Service("LoginConsoleCommand")
-public class LoginCosoleCommand implements BaseCommand {
+public class LoginConsoleCommand implements BaseCommand {
 
     public static final String KEY = "1";
 
